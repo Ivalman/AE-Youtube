@@ -1,0 +1,5 @@
+torch
+snntorch
+numpy
+matplotlib
+networkx
