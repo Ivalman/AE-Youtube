@@ -1,0 +1,9 @@
+.vscode/
+*.db
+*.db-*
+lif
+*.o
+*.out
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
